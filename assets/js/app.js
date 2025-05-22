@@ -141,7 +141,7 @@ let footer = $(`
               
                 <form name="form1" action="https://api.web3forms.com/submit" method="POST" accept-charset="UTF-8" >
                 <input type="hidden" name="access_key" value="f40cb63d-b0ec-4e8e-91bc-f2a6f3e2d65b"/>
-                <input type="hidden" name="redirect" value="https://www.bewithankit.site/"/>
+                <input type="hidden" name="redirect" value="https://bewithankit.site/"/>
                   <input id="name" type="text" name="name" placeholder="Your Name" required/>
                   <input id="email" type="email" name="email" placeholder="Email Address" required/>                  
                   <textarea id="textArea" name="message" placeholder="Type your Message" required></textarea>
