@@ -4,20 +4,20 @@ const researchTable = document.querySelector(".main");
 
 const research = [
   {
-    title: "A Batch Normalized Inference Network Keeps the KL Vanishing Away",
+    title: "WILL UPDATE SOON",
     authors:
-      "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu",
+      "ANKIT KUMAR",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+      "WILL UPDATE SOON",
+    researchYr: 2025,
     citebox: "popup1",
-    image: "assets/images/research-page/inteferenceNetwork.png",
+    image: "assets/images/experience-page/soon.jpg",
     citation: {
       vancouver:
-        "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu. A Batch Normalized Inference Network Keeps the KL Vanishing Away. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "ANKIT KUMAR. WILL UPDATE SOON. WILL UPDATE SOON.",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 1",
+      "SOON TO BE UPDATED",
     absbox: "absPopup1",
   },
 
